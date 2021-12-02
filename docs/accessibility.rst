@@ -5,7 +5,7 @@
 Accessibility
 ================
 
-This website is hosted and maintained by <a href="https://www.astuntechnology.com/">Astun Technology Ltd</a> on behalf of the [Scottish Government](https://www.gov.scot/). We want the Scotland Heat Map interactive site to be accessible and usable for as many people as possible.
+This website is hosted and maintained by `Astun Technology Ltd <https://www.astuntechnology.com/>`_ on behalf of the [Scottish Government](https://www.gov.scot/). We want the Scotland Heat Map interactive site to be accessible and usable for as many people as possible.
 
 The interactive map layers use colour to display data in a meaningful manner. We have thought carefully about our colour choices and have tried to ensure that the colours are distinguishable for all users, including those with colour blindness. To generate graduated colour scales for raster (grid) and polygon layers, we used an online colour palette generating tool, [Chroma.js Color Palette Helper](https://gka.github.io/palettes). In our scales, the darker the colour, the higher the value for the grid square or polygon. We also used this tool to choose contrasting colours for the heat networks point layer.
 
