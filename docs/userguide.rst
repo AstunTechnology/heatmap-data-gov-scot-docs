@@ -5,7 +5,9 @@
 
 Quick User Guide
 ================
-.. image:: overview.png
+.. image:: images/overview.png
+  :width: 600
+  :alt: The Scotland Heatmap Interactive
 
 Overview
 --------
