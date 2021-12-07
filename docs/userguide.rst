@@ -45,7 +45,7 @@ Base mapping is always displayed and you can choose if you wish to see this as *
 
 Map Layers
 ----------
-Now you can decide which other information you are interested in by ticking the relevant boxes in the Legend. If you tick the box for the heading entry then all sub entries / layers will be automatically selected. Alternatively you can just select a single layer. We have selected to display 'Settlement Area Demand (total)' e.g.
+Now you can decide which other information you are interested in by ticking the relevant boxes in the Legend. If you tick the box for the heading entry then its layers can be displayed on the map. You can select a single layer or mutiple layers in different layer groups. We have selected to display 'Settlement Area Demand (total)' e.g.
 .. image:: images/layerselection.png
   :width: 404
   :alt: Selecting layers
