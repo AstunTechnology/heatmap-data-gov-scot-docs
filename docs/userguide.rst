@@ -33,6 +33,7 @@ Another way to position the map is to zoom in or out. You can use the scroll bar
 .. image:: images/navigation.png
   :width: 91
   :alt: Zoom and history navigation controls
+  :align: right
 You may also see a left arrow (Navigate back) and right arrow (Navigate forward) if you have previously panned or zoomed the map.
 
 You can also hold down the shift key and draw a rectangle on the map (marquee select), and when you release the mouse the map will zoom to that specific area. If you just want to move the map to a different location you can click and hold the left mouse button (pan) to drag the map into a different location. There is an **Overview Map** in the bottom left hand corner so that you can see where your chosen area resides. There is also a indication of the scale of the map in the top right hand corner.
