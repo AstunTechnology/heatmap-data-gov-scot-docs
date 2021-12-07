@@ -35,4 +35,6 @@ If you’re not happy with how we respond to your feedback, contact the `Equalit
 
 Compliance statement
 --------------------
-The Scottish Government commits to making its websites accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018. This accessibility statement applies to `https://heatmap.data.gov.scot/ <https://heatmap.data.gov.scot/>`_  and was last reviewed on 30 November 2021. 
+The Scottish Government commits to making its websites accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018. This accessibility statement applies to `https://heatmap.data.gov.scot/ <https://heatmap.data.gov.scot/>`_  and was last reviewed on 30 November 2021.
+
+This website is not compliant with the `Web Content Accessibility Guidelines version 2.1 (WCAG)<https://www.w3.org/TR/WCAG21/>`_ A success criteria due to the non-compliances listed above. Interactive maps are exempt from the accessibility regulations, however it is our intention that this website complies with them wherever it is possible and reasonable to do so.
