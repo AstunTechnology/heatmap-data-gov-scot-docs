@@ -12,6 +12,7 @@ Quick User Guide
 Overview
 --------
 This document outlines the main features and uses of **Scotland Heat Map**. Click on **Get started** to begin and you will see the different map layers you can select to view on the map and report on.
+
 .. image:: images/legend.png
   :width: 441
   :alt: The legend panel
