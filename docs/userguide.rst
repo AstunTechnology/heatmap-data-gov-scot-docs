@@ -27,24 +27,25 @@ You first step would normally be to position the map to the area you are interes
 
 Navigating the Map
 ------------------
-
-Another way to position the map is to zoom in or out. You can use the scroll bar on your mouse or click on the plus (zoom in) or minus (zoom out) buttons on the **Navigation Toolbar** at the top left of the map. 
-
 .. image:: images/navigation.png
   :width: 91
   :alt: Zoom and history navigation controls
   :align: right
+
+Another way to position the map is to zoom in or out. You can use the scroll bar on your mouse or click on the plus (zoom in) or minus (zoom out) buttons on the **Navigation Toolbar** at the top left of the map. 
+
 You may also see a left arrow (Navigate back) and right arrow (Navigate forward) if you have previously panned or zoomed the map.
 
 You can also hold down the shift key and draw a rectangle on the map (marquee select), and when you release the mouse the map will zoom to that specific area. If you just want to move the map to a different location you can click and hold the left mouse button (pan) to drag the map into a different location. There is an **Overview Map** in the bottom left hand corner so that you can see where your chosen area resides. There is also a indication of the scale of the map in the top right hand corner.
 
 Base Mapping
 ------------
-Base mapping is always displayed and you can choose if you wish to see this as **OS Greyscale** or **OS Colour** by selecting the relevant Base maps entry at the bottom of the Legend e.g.
-
 .. image:: images/basemaps.png
   :width: 200
   :alt: Basemap selection controls
+  :align: right
+
+Base mapping is always displayed and you can choose if you wish to see this as **OS Greyscale** or **OS Colour** by selecting the relevant Base maps entry at the bottom of the Legend e.g.
 
 **Note**: Radio buttons (circular) allow you to select a single entry whilst Check boxes (square) allow you to select multiple entries.
 
@@ -106,9 +107,11 @@ You can reset your area of interest by clicking **Reset report area** and return
 
 Other Tools
 -----------
-There are some other tools which you may find useful which can be accessed by clicking on the relevant button. 
-
 .. image:: images/tools.png
   :width: 220
   :alt: Menu toolbar
+  :align: right
+
+There are some other tools which you may find useful which can be accessed by clicking on the relevant button. 
+
 Just hover over each tool to find out what it does e.g. Measure, link, print, reset map and help.
